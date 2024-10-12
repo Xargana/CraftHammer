@@ -10,4 +10,11 @@
     <br>
     <img src="https://img.shields.io/github/languages/code-size/Xargana/CraftHammer" alt="GitHub code size in bytes"/>
     <a href="https://discord.gg/dajdVRhU5Q"><img src="https://img.shields.io/discord/1293261763902570667?logo=discord" alt="Discord"/></a>
+  
 </div>
+
+<h2 align="left">Dependencies</h2>
+<ul>
+    <li>mineflayer</li>
+    <li>readline</li>
+</ul>
