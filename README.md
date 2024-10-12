@@ -2,6 +2,7 @@
 <p align="center">A program to stress-test minecraft servers</p>
 <p align="center">(Derived from <a href="github.com/Xargana/ChatLogger">ChatLogger</a>)
   </p>
+  <br>
 <div align="center">
     <img src="https://img.shields.io/github/last-commit/Xargana/CraftHammer" alt="GitHub last commit"/>
     <img src="https://img.shields.io/github/commit-activity/w/Xargana/CraftHammer" alt="GitHub commit activity"/>
